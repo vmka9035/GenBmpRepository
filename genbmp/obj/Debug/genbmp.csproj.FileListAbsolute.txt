@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\genbmp\genbmp\bin\Debug\genbmp.exe.config
+C:\Users\Admin\source\repos\genbmp\genbmp\bin\Debug\genbmp.exe
+C:\Users\Admin\source\repos\genbmp\genbmp\bin\Debug\genbmp.pdb
+C:\Users\Admin\source\repos\genbmp\genbmp\obj\Debug\genbmp.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\genbmp\genbmp\obj\Debug\genbmp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\genbmp\genbmp\obj\Debug\genbmp.exe
+C:\Users\Admin\source\repos\genbmp\genbmp\obj\Debug\genbmp.pdb
